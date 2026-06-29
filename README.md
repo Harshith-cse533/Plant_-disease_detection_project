@@ -75,7 +75,7 @@ Plant-Disease-Detection/
 
 ## 👨‍💻 Author
 
-**Bharath Chilaka** *AI Researcher & Software Engineer*
+**MANNURU HARSHITH** *AI Researcher & Software Engineer*
 
 ---
 
